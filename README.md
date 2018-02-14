@@ -14,3 +14,4 @@ Thanks!
 | Name         | Project (maintain?)  | Experience  | Tech You Know  | Tech You Want  |
 |--------------|-------------|-------------|----------------|----------------|
 | Brian Gates  | [odev-meetup-calendar](https://github.com/orlando-source-software/odev-meetup-calendar) (yes)   | senior      | JS,Ruby        |                |
+| Gil Viana    | [odev-meetup-calendar](https://github.com/orlando-source-software/odev-meetup-calendar) (yes)   | Junior      | JS, PHP        |      Node      |
